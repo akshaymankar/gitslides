@@ -103,6 +103,8 @@ $ cd my_ultimate_vcs
 
 $ git init
 
+![git init](/images/git-init.png "Initialize your git repository")
+
 ----
 
 ### Create your first file
@@ -115,6 +117,8 @@ $ touch README
 
 $ git status
 
+![git status1](/images/git-status1.png "git status")
+
 ----
 
 ### Stage your file
@@ -123,6 +127,8 @@ $ git add README
 
 $ git status
 
+![git add](/images/git-add.png "git add")
+
 ----
 
 ### First commit
@@ -130,6 +136,8 @@ $ git status
 $ git commit -m "First commit"
 
 $ git status
+
+![git commit](/images/git-commit.png "git commit")
 
 ----
 
@@ -149,11 +157,15 @@ $ echo "My first project" >> README
 
 $ git status
 
+![git status2](/images/git-status2.png "git status")
+
 ----
 
 ### Find out what you changed
 
 $ git diff
+
+![git diff](/images/git-diff.png "git diff")
 
 ----
 
@@ -161,17 +173,23 @@ $ git diff
 
 $ git commit -am "Update README"
 
+![git commit2](/images/git-commit2.png "git commit2")
+
 ----
 
 ### See your history
 
 $ git log
 
+![git log](/images/git-log.png "git log")
+
 ----
 
 ### See what you changed
 
 $ git show
+
+![git log](/images/git-log.png "git log")
 
 ---
 
