@@ -161,6 +161,18 @@ $ git diff
 
 $ git commit -am "Update README"
 
+----
+
+### See your history
+
+$ git log
+
+----
+
+### See what you changed
+
+$ git show
+
 ---
 
 # Github
