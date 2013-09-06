@@ -1,3 +1,8 @@
+<style>
+  .reveal h1 {
+    font-size: 130px;
+  }
+</style>
 # Introduction to VCS
 
 ## ThoughtWorks Pune
@@ -13,7 +18,9 @@
 
 ----
 
-# Y U no use my code?
+### Y U no use my code?
+
+<img src="/images/yuno.png" alt="Git structure" width=500 height=500/>
 
 ---
 
@@ -42,7 +49,9 @@
 
 ---
 
-# GIT
+![git kid](/images/git-kid.jpg "What is Git?")
+
+----
 
 ![git filesystem](/images/git-filesystem.png "Git structure")
 
