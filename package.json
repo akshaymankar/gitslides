@@ -1,11 +1,11 @@
 {
-    "name": "cowboy",
-    "description": "Cowboy Coder's Guide to Infrastructure Nightmares",
+    "name": "ThoughtWorks",
+    "description": "Introduction to VCS",
     "keywords": [],
     "version": "0.0.1",
     "repository": {
         "type": "git",
-        "url": "git://github.com/anaynayak/xconf2k13"
+        "url": "git://github.com/akshaymankar/gitslides"
     },
     "bin": {
         "reveal-md": "bin/server-cli.js"
