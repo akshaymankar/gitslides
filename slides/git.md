@@ -81,7 +81,7 @@ $ sudo yum install -y git-core
 
 * Windows
 
-https://code.google.com/p/msysgit/downloads/list?q=full+installer+official+git
+http://msysgit.github.io/
 
 ----
 
