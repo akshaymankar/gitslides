@@ -111,10 +111,6 @@ $ git init
 
 $ touch README
 
-----
-
-### Check the status of your repository
-
 $ git status
 
 ![git status1](/images/git-status1.png "git status")
