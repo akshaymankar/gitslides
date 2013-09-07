@@ -193,7 +193,7 @@ $ git log
 
 $ git show
 
-![git log](/images/git-log.png "git log")
+![git show](/images/git-show.png "git show")
 
 ---
 
