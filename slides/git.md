@@ -61,7 +61,7 @@
 
 ----
 
-![git filesystem](/images/git-filesystem.png "Git structure")
+<img src="/images/git-filesystem.png" style="width: 800px" />
 
 ----
 
