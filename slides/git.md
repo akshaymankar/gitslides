@@ -81,11 +81,11 @@
 
 * Ubuntu, Debian, Mint
 
-$ sudo apt-get install -y git-core
+$ sudo apt-get install git-core
 
 * Fedora, Red Hat, CentOS
 
-$ sudo yum install -y git-core
+$ sudo yum install git-core
 
 * Windows
 
@@ -95,11 +95,11 @@ http://msysgit.github.io/
 
 ### Introduce yourself to git
 
-$ git config --list
-
 $ git config --global user.name = "Amazing bros"
 
 $ git config --global user.email = "foobar@amazing-bros.com"
+
+$ git config --list
 
 ----
 
@@ -214,11 +214,17 @@ $ git show
 
 ----
 
-$ git remote add origin <URL here>
+$ git remote add origin &lt;URL here&gt;
 
 ----
 
 $ git push --set-upstream origin master
+
+----
+
+## Clone other's code !
+
+$ git clone &lt;some url&gt;
 
 ---
 
@@ -230,7 +236,9 @@ $ git push --set-upstream origin master
 * Try Git: http://try.github.io/
 * Git Immersion: http://gitimmersion.com/
 * $ man git
-* $ git <command> --help
+* $ git &lt;command&gt; --help
 
+---
 
-
+# Thanks
+<img src="/images/ironcat.jpg" alt="Git structure" width=500 height=500/>
