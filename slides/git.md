@@ -2,6 +2,9 @@
   .reveal h1 {
     font-size: 130px;
   }
+  .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+    text-transform: inherit;
+   }
 </style>
 # Introduction to VCS
 
@@ -9,7 +12,10 @@
 
 ---
 
-# How do you manage your your assignments or projects?
+## How do you
+## manage
+## your assignments 
+## or projects?
 
 ----
 
@@ -18,14 +24,16 @@
 
 ----
 
-### Y U no use my code?
+### Y U no write code that works !
 
 <img src="/images/yuno.png" alt="Git structure" width=500 height=500/>
 
 ---
 
-# VCS =
-# Version Control System
+# VCS
+## Version
+## Control
+## System
 
 ----
 
@@ -143,7 +151,7 @@ $ git status
 
 ---
 
-# Lets change something in your new git repository
+# Lets change something
 
 ----
 
@@ -192,3 +200,37 @@ $ git show
 # Github
 
 ![octocat](/images/octocat.png "octocat")
+
+----
+
+## Hosted git
+## Hub for open source projects
+
+----
+
+# Remotes
+
+![Remotes](/images/remotes.jpg "Remotes")
+
+----
+
+$ git remote add origin <URL here>
+
+----
+
+$ git push --set-upstream origin master
+
+---
+
+# Resources
+
+----
+
+* Pro Git: http://git-scm.com/book
+* Try Git: http://try.github.io/
+* Git Immersion: http://gitimmersion.com/
+* $ man git
+* $ git <command> --help
+
+
+
